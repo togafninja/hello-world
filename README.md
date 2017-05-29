@@ -1,4 +1,1 @@
-# hello-world
-This is my first github repo
-
-I'm togafninja
+I'm going out now c u later
